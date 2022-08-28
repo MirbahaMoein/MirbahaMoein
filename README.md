@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science, Python**
 
-- 💬 Ask me about **Python and SQL**
+- 💬 Ask me about **Python, SQL, Pandas library for python**
 
 - 📫 How to reach me **mirbahamoein98@gmail.com**
 
