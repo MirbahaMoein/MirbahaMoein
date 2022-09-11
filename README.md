@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moein Mirbaha</h1>
 <h3 align="center">A passionate Python developer and price action analyst from Tehran, Iran</h3>
 
-- 🔭 I’m currently working on **BTC Wallets Indicator**
+- 🔭 I’m currently working on **BTC Whales Indicator**
 
 - 🌱 I’m currently learning **Data Science, Python**
 
