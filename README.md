@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BTC Whales Indicator**
 
-- 🌱 I’m currently learning **Data Science, Python**
+- 🌱 I’m currently learning **Data Science, AI**
 
 - 💬 Ask me about **Python, SQL and Pandas library for python**
 
