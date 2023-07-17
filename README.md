@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Moein Mirbaha</h1>
-<h3 align="center">A passionate Python developer and price action analyst from Tehran, Iran</h3>
+<h3 align="center">A passionate Data Analyst from Tehran, Iran</h3>
 
-- 🔭 I’m currently working on **BTC Whales Indicator**
+- 🔭 I’m currently working on my skills to become a data analysis expert!
 
-- 🌱 I’m currently learning **Data Science, AI**
+- 🌱 I’m currently learning **Data Science, AI, Statistics**
 
-- 💬 Ask me about **Python, SQL and Pandas library for python**
+- 💬 Ask me about **Python, SQL and MS Power BI**
 
 - 📫 How to reach me **mirbahamoein98@gmail.com**
 
