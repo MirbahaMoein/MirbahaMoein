@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Moein Mirbaha</h1>
 <h3 align="center">A passionate Data Analyst from Tehran, Iran</h3>
 
-- 🔭 I’m currently working on my skills to become a data analysis expert!
+- 🔭 I’m a data analyst at Snappfood!
 
-- 🌱 I’m currently learning **Data Science, AI, Statistics**
+- 🌱 I’m currently learning **Data Analysis, Data Science, AI**
 
-- 💬 Ask me about **Python, SQL and MS Power BI**
+- 💬 Ask me about **Python, SQL, Machine Learning, and MS Power BI**
 
 - 📫 How to reach me **mirbahamoein98@gmail.com**
-
-- 📄 Know about my experiences [https://jobinja.ir/user/Moein-Mirbaha](https://jobinja.ir/user/Moein-Mirbaha)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
